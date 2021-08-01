@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Th_E_shop</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="assets\" />
+    <Folder Include="sources\design\" />
+    <Folder Include="sources\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\img\cd-icon-arrow-next.svg" />
+    <None Include="wwwroot\css\img\cd-icon-select.svg" />
+    <None Include="wwwroot\css\img\cd-icons-cart-close.svg" />
+    <None Include="wwwroot\css\img\product-preview.png" />
+    <None Include="wwwroot\js\login_script.js" />
+  </ItemGroup>
+
+</Project>
