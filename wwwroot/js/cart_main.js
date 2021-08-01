@@ -93,7 +93,9 @@
 			} else {
 				Util.addClass(cart[0], 'cd-cart--open');
 			}
-		};
+	  };
+
+	  // adawdw
 
 		function addProduct(target) {
 			// this is just a product placeholder
