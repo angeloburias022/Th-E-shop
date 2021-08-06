@@ -7,8 +7,8 @@
 
   <ItemGroup>
     <Folder Include="assets\" />
-    <Folder Include="sources\design\" />
-    <Folder Include="sources\images\" />
+    <Folder Include="wwwroot\sources\design\" />
+    <Folder Include="wwwroot\sources\images\" />
   </ItemGroup>
 
   <ItemGroup>
